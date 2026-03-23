@@ -38,8 +38,8 @@ The code estimates local scale factors, the absolute mean curvature in $\mathbb{
 **Install**
 
 ```bash
-git clone https://github.com/camdenhosler/Sudanese-Mobius-Strip-Mean-and-Gaussian-Curvature-in-R-3.git
-cd Sudanese-Mobius-Strip-Mean-and-Gaussian-Curvature-in-R-3
+git clone https://github.com/camdenhosler/sudanese-mobius-curvature-visualization.git
+cd sudanese-mobius-curvature-visualization
 
 # Create a virtual environment
 python -m venv venv
